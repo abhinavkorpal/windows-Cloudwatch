@@ -73,19 +73,7 @@
                     "DimensionValue": ""
                 }
             },
-            {
-                "Id": "PerformanceCounter1",
-                "FullName": "AWS.EC2.Windows.CloudWatch.PerformanceCounterComponent.PerformanceCounterInputComponent,AWS.EC2.Windows.CloudWatch",
-                "Parameters": {
-                    "CategoryName": "Processor",
-                    "CounterName": "% Interrupt Time",
-                    "InstanceName": "",
-                    "MetricName": "Processor",
-                    "Unit": "Percent",
-                    "DimensionName": "",
-                    "DimensionValue": ""
-                }
-            },
+            
             {
                 "Id": "CloudWatchLogs",
                 "FullName": "AWS.EC2.Windows.CloudWatch.CloudWatchLogsOutput,AWS.EC2.Windows.CloudWatch",
